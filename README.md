@@ -49,15 +49,6 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 
 ---
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonWeigang-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Leon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonWeigang-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 📬 Connect with Me
 
 <p align="left">
