@@ -1,14 +1,6 @@
 # Hi there, I'm Leon Weigang! 👋
 
-```text
-  _                     _  _   _ _____ _____ _____ _____ _____ _____ _____ 
- | |   ___  ___  _ __  | || | | |  ___|_   _/  ___/  ___|_   _/  ___/  ___|
- | |  / _ \/ _ \| '_ \ | || |_| | |__   | | \ `--.| `--.  | | \ `--.\ `--. 
- | | |  __/ (_) | | | ||__   _| |  __|  | |  `--. \`--. \ | |  `--. \`--. \
- |_|  \___|\___/|_| |_|   |_|   |_|    \___/ \____/\____/ \_/  \____/\____/
-```
-
-### 💻 Frontend Web Developer | 🤖 AI & Automation Enthusiast
+### 💻 Frontend Web Developer
 
 I am a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications. Currently, I am expanding my skills into backend development with **Python**, integrating **Artificial Intelligence**, and streamlining workflows using **n8n automation**.
 
@@ -16,7 +8,7 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 
 ## 🚀 About Me
 
-- 🔭 **Focus:** Building modern, responsive web applications with HTML, CSS, and vanilla JavaScript.
+- 🔭 **Focus:** Building modern, responsive web applications with HTML, CSS, vanilla JavaScript and Typescript/Angular.
 - 🌱 **Currently Learning:** Python, Backend Architecture, AI/LLM integrations, and **n8n** for process automation.
 - 💡 **Goal:** To combine strong frontend UI/UX engineering with powerful AI tools and automated workflows.
 - 📬 **How to reach me:** Feel free to connect via LinkedIn or drop me an email!
@@ -33,7 +25,6 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 
 ### 🐍 Backend & AI (Currently Learning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![AI & LLMs](https://img.shields.io/badge/AI_%26_LLM_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ⚡ Automation & Workflow
@@ -52,8 +43,8 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Portfolio Website** | Personal interactive portfolio showcasing projects, interactive animations, and localized content. | HTML5, CSS3, JS, PHP | [View Code](https://github.com/your-username/portfolio) |
-| **Pokédex App** | Interactive Pokémon explorer connected to PokéAPI with live filtering and stats view. | JS (ES6+), PokéAPI, CSS3 | [View Code](https://github.com/your-username/pokedex) |
+| **Portfolio Website** | Personal interactive portfolio showcasing projects, interactive animations, and localized content. | HTML5, CSS3, JS, PHP | [View Code](https://github.com/LeonWeigang-Dev/portfolio) |
+| **El Pollo Loco** | El Pollo Loco is a fast-paced 2D side-scrolling action game where players fight enemies, collect resources, and defeat a big Bosschicken. | JS (ES6+), CSS3 | [View Code](https://github.com/LeonWeigang-Dev/el_pollo_loco) |
 | *Automation Labs* | *(In Progress)* Custom n8n workflows & Python scripts for automated task management. | Python, n8n, Webhooks | Coming Soon 🚀 |
 
 ---
@@ -61,8 +52,8 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Leon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonWeigang-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Leon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonWeigang-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -70,13 +61,13 @@ I am a passionate Frontend Developer focused on building clean, responsive, and 
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/leon-weigang-89b358378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:orlando.maxim@web.de">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://leon-weigang.de/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
